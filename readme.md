@@ -40,7 +40,7 @@ BuyAuto — это веб-приложение, разработанное в р
 
 ## Примечание
 
-![Ссылка на макет](https://www.figma.com/design/2sRS3hFMMYSE2k8PNlO2pJ/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BEe-Frontend?node-id=0-1&p=f&t=luLyXubCiPDNnCXk-0)
+[Ссылка на макет](https://www.figma.com/design/2sRS3hFMMYSE2k8PNlO2pJ/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BEe-Frontend?node-id=0-1&p=f&t=luLyXubCiPDNnCXk-0)
 Все требования по дизайну, функциональности и стилизации были учтены и реализованы. Состояние компонентов централизованно управляется через MobX. Интерфейс адаптирован под точные требования скриншотов и технического задания.
 
 ---
